@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+:root {
+  --main-color: #0b0b0b;
+}
+.home {
+  background-color: var(--main-color);
+  overflow: hidden;
+  height: 1200px;
+}
